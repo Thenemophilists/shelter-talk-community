@@ -6,10 +6,4 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Thenemophilists/shelter-talk?style=flat-square)
 ![GitHub License](https://img.shields.io/github/license/Thenemophilists/shelter-talk?style=flat-square)
 
-### **Prerequisites**
-
-- Go 1.23.2
-
-## **License**
-
 This project is licensed under the AGPL-3.0 license.
