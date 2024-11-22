@@ -19,7 +19,7 @@ You can run this code locally or deploy it to a server.
 ## **Installation**
 
 ```
-git clone https://github.com/shelter-talk/shelter-api.git
+git clone https://github.com/Thenemophilists/shelter-talk.git
 cd shelter-api
 go mod download
 ```
