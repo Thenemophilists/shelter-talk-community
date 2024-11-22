@@ -5,5 +5,3 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Thenemophilists/shelter-talk?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Thenemophilists/shelter-talk?style=flat-square)
 ![GitHub License](https://img.shields.io/github/license/Thenemophilists/shelter-talk?style=flat-square)
-
-This project is licensed under the AGPL-3.0 license.
