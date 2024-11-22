@@ -5,3 +5,25 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Thenemophilists/shelter-talk?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Thenemophilists/shelter-talk?style=flat-square)
 ![GitHub License](https://img.shields.io/github/license/Thenemophilists/shelter-talk?style=flat-square)
+
+## **Introduction**
+
+A public version of the Shelter Talk Api.
+You can run this code locally or deploy it to a server.
+
+## **Requirements**
+
+- Go 1.23.2 or higher
+- MongoDB 4.4 or higher
+
+## **Installation**
+
+```
+git clone https://github.com/shelter-talk/shelter-api.git
+cd shelter-api
+go mod download
+```
+
+## **License**
+
+This project is licensend under the AGPL-3.0 license.
