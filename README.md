@@ -8,7 +8,7 @@
 
 ## **Introduction**
 
-A public version of the Shelter Talk api.
+A public version of the Shelter Talk api. \
 You can run this code locally or deploy it to a server.
 
 ## **Requirements**
